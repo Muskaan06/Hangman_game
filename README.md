@@ -1,4 +1,4 @@
-# In this project i will creating the hangman game using basics of python programming.
+# In this project i have created the hangman game using basics of python programming.
 
 ABOUT THE GAME:
 
